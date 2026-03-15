@@ -1,9 +1,9 @@
 # Statistical Analysis of E-Commerce Data
 
-## 📊 Ringkasan Proyek
+## Project Overview 
 Repositori ini berisi analisis statistika mendalam terhadap data transaksi e-commerce. Fokus utama proyek ini adalah menerapkan uji hipotesis dan pemodelan prediktif untuk mengevaluasi perilaku konsumen dan struktur biaya logistik.
 
-## 🧪 Metodologi Statistika yang Diterapkan
+## Metodologi Statistika yang Diterapkan
 
 ### 1. Deteksi Outlier (Analisis Sebaran)
 Menggunakan metode **Interquartile Range (IQR)** untuk mengidentifikasi data ekstrem pada variabel pembayaran dan berat. Langkah ini krusial untuk memastikan bahwa nilai rata-rata (*mean*) tidak terdistorsi oleh data yang tidak wajar.
@@ -21,16 +21,16 @@ Membangun model korelasi antara berat barang dan ongkos kirim.
 ### 4. Analisis Efisiensi Logistik
 Menerapkan teknik *feature engineering* untuk menghitung biaya per gram, memungkinkan perbandingan performa antar kurir secara objektif melalui standarisasi nilai.
 
-## 📉 Visualisasi Utama
+## Visualisasi Utama
 - **Box Plot:** Untuk membandingkan distribusi dan mendeteksi outlier secara visual.
 - **Regression Plot:** Untuk memetakan hubungan linear antar variabel numerik.
 - **Correlation Heatmap:** Untuk melihat keterkaitan antar seluruh variabel dalam dataset.
 
-## 🛠️ Stack Teknologi
+## Stack Teknologi
 - Python (Pandas, NumPy, Scipy.Stats, Scikit-Learn)
 - Matplotlib & Seaborn (Data Visualization)
 
-## 👥 Tim Analis
+## Contributors
 - **Muhammad Maulana Rosyid** - Lead Analyst
 - **Rifat Qoyyim Sidik** - Data Researcher
 - **Kelompok 1 - Universitas Terbuka (UT)**
