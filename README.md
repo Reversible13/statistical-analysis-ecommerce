@@ -1,5 +1,11 @@
 # Statistical Analysis of E-Commerce Data
 
+## Contributors
+- **Muhammad Maulana Rosyid** - Lead Analyst
+- **Rifat Qoyyim Sidik** - Data Researcher
+- **Kelompok 1 - Universitas Terbuka (UT)**
+
+
 ## Project Overview 
 Repositori ini berisi analisis statistika mendalam terhadap data transaksi e-commerce. Fokus utama proyek ini adalah menerapkan uji hipotesis dan pemodelan prediktif untuk mengevaluasi perilaku konsumen dan struktur biaya logistik.
 
@@ -30,7 +36,9 @@ Menerapkan teknik *feature engineering* untuk menghitung biaya per gram, memungk
 - Python (Pandas, NumPy, Scipy.Stats, Scikit-Learn)
 - Matplotlib & Seaborn (Data Visualization)
 
-## Contributors
-- **Muhammad Maulana Rosyid** - Lead Analyst
-- **Rifat Qoyyim Sidik** - Data Researcher
-- **Kelompok 1 - Universitas Terbuka (UT)**
+# Repository Structure
+```text
+├── Dataset Tugas Data Science M3                      # (Excel files)
+├── Statistical_Analysis_Ecommerce_Shopee.ipynb        # Main Notebook
+├── README.md                                          # Dokumentasi Proyek
+└── all_months_clean.xlsx                              # Output Data Bersih
