@@ -39,6 +39,6 @@ Menerapkan teknik *feature engineering* untuk menghitung biaya per gram, memungk
 # Repository Structure
 ```text
 ├── Dataset Tugas Data Science M3                      # File Excel
-├── Statistical_Analysis_Ecommerce_Shopee.ipynb        # Main Notebook (Tugas Vinix Modul 3)
+├── Kelompok1_UT_Python Data Sains_Tugas Modul 3.ipynb # Main Notebook (Tugas Vinix Modul 3)
 ├── README.md                                          # Dokumentasi Proyek
 └── all_months_clean.xlsx
